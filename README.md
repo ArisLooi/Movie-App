@@ -19,8 +19,8 @@ Make sure you have a modern web browser installed.
    ```bash
    git clone https://github.com/ArisLooi/movie-search-app.git
 2. Navigate to the project directory:
-  bash
-  cd movie-search-app
+   ```bash
+   cd movie-search-app
 3. Open index.html in your web browser.
 
 ## Usage
